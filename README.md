@@ -1,4 +1,5 @@
-As a Java developer, I created a Tic Tac Toe game that provides an engaging, interactive user experience. The game supports both human vs. human simple algorithms to ensure competitive play. It features a clean and intuitive command-line interface, efficient game logic, and an easy-to-follow structure for handling turns, checking win conditions, and resetting the game.
+As a Java developer, 
+I created a Tic Tac Toe game that provides an engaging, interactive user experience. The game supports both human vs. human simple algorithms to ensure competitive play. It features a clean and intuitive command-line interface, efficient game logic, and an easy-to-follow structure for handling turns, checking win conditions, and resetting the game.
 The application adheres to Object-Oriented Programming (OOP) principles, static vs non static functions. The code is well-documented, making it easy to maintain and expand in the future.
 By developing this game, I enhanced my understanding of game mechanics, Java fundamentals, and algorithm design.
 
