@@ -3,7 +3,6 @@ The application adheres to Object-Oriented Programming (OOP) principles, static 
 By developing this game, I enhanced my understanding of game mechanics, Java fundamentals, and algorithm design.
 
 //About the Game //How to play
-
 Tic Tac Toe is a classic two-player game played on a 3x3 grid. Players take turns marking either an "X" or an "O" in empty grid spaces. 
 The objective is to be the first player to get three of their marks in a row, column, or diagonal. 
 If all spaces are filled without any player achieving this, the game ends in a draw. It’s a simple yet strategic game that challenges players to think ahead and block their opponent’s moves.
